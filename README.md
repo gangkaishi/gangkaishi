@@ -3,14 +3,14 @@
 
 just try  
 and use it
-* bold
-* title
-* paragraph
-   * newline
-* list
-* reference
-* html
-* picture
+* bold(**+*)
+* title(#)
+* paragraph(blank line)
+   * newline(2 blank)
+* list(*/number+blank)
+* reference(>)
+* html(`[]()`)
+* picture(`![]()`)
 >markdown
 >>use
 
