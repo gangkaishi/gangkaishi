@@ -9,7 +9,7 @@ and use it
    * newline(2 blank)
 * list(*/number+blank)
 * reference(>)
-* html(`[]()`)
+* html(`[]()`/`[][]balnk line[]:`)
 * picture(`![]()`)
 >markdown
 >>use
